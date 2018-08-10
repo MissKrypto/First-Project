@@ -1,0 +1,5 @@
+firstJoin_message: '&cWelcome &a<player> &cTo Miss Shitty Server!'
+
+join_message: '&8&l[&b+&8&l] &b<player>'
+
+quit_message: '&8&l[&c-&8&l] &c<player>'
